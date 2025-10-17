@@ -165,6 +165,7 @@ h1:hover {
   line-height: 35px;
 }
 footer {
+  text-align: center;
   background-color: #333;
   color: #fff;
   padding: 20px;
