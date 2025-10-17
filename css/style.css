@@ -160,7 +160,7 @@ h1:hover {
 }
 .about-flex p {
   max-width: 400px;
-  text-align: justify;
+  text-align: start;
   font-family: "Kristen ITC", cursive;
   line-height: 35px;
 }
